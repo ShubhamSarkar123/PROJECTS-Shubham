@@ -1,0 +1,8 @@
+Run Streamlit in terminal:
+
+streamlit run app.py
+
+
+Similarity.pkl (similarity matrix) file path: (google drive):
+
+https://drive.google.com/file/d/1_zoKxRnIy2zShvMvKbku0O8R2WZHtlzU/view?usp=sharing

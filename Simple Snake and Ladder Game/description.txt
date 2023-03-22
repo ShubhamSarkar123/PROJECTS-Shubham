@@ -1,0 +1,8 @@
+In this program, the snake_ladder dictionary defines the positions of the snakes and ladders on the board. The player_positions 
+list keeps track of each player's current position on the board. The roll_die function generates a random number between 1 and 6 
+to simulate the rolling of a die. The move_player function updates a player's position based on the number of spaces they move 
+and any snake or ladder they encounter.
+
+The game loop repeatedly prompts the current player to roll the die, moves the player, checks for a win condition, and switches to
+the next player. The loop continues until a player reaches or exceeds position 100, at which point the game is over and the 
+winning player is declared.
